@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-expand-md bg-light border-bottom fixed-top">
         <div class="container d-flex flex-wrap">
-            <img src="/MySite/public/favicon.ico" width="40" height="41" alt="">
+            <a href="/"><img src="/MySite/public/favicon.ico" alt="" width="40" height="41" ></a>
             <ul class="nav me-auto">
                 <li class="nav-item"><a href="/" class="nav-link link-dark px-2" >PHP study page</a></li>
             </ul>

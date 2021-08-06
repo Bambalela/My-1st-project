@@ -1,7 +1,7 @@
 @extends('header')
 
 @section('text')
-    <h3>Lorem ipsum.</h3>
+    <h3>Home page</h3>
 
 @endsection
 
